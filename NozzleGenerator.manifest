@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Nick Park",
+	"description":	{
+		"":	"Generate a nozzle sketch"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
